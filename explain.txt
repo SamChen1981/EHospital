@@ -1,0 +1,5 @@
+在线挂号系统
+client/EHospitalDoctorClient--PC医生端，用C#写
+client/EHospital--------------Android用户端（病人使用），Android
+server/EHospital--------------服务器，java 用MyEclipse编写，tomcat运行
+server/ehospital.sql----------数据库文件
